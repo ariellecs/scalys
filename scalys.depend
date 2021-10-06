@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1470085499 source:c:\users\arielle\documents\codeblocks\scalys\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1469854106 c:\users\arielle\documents\codeblocks\scalys\colors.h
+

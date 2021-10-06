@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1470119455 source:c:\users\arielle\desktop\scalys\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1470119456 source:d:\scalys\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1470119456 source:c:\users\kleps\documents\uff\scalys\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+

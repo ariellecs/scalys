@@ -1,0 +1,59 @@
+;;::::,:;fi:;;;:i;,.........,.,..,......,,::::::::::;:;1.     .iiiittLLCCLL800GCCCCCLLLLCLLLLfft11i
+;:::;:,;C1tf;;;;;i:...,.....,,..........,,,:::::::::;:ii     .iii;1ttttfLfCGCGCLLLLLfLLLLfLffft11ii
+::::;:,:tGfti:i1i:,...,.....,,....,.....,,:::,:::::;:;;     .i;;;ii11tttLfLCGGCCLLLLLLLffLfffttti1i
+:::,;,,:;11;;;::;;,...,.....,,....,...,.,,,:::::::;;;;      :;;:;:i1111ttfffCCCCLCLLLLffLLLLfft11i;
+i;:,;:,,::,,,,,,,,,,..,...,.,,..........,,:::,:::::;:.     :;::::;i111t1tfffLCCCCCLLLLLfLLfffft11ii
+::::i::;;:;;;:::,,,,........,,..,,....,.,,,,:::::;;:     ,:::::::;;11tt1tttfCCCCLLLLLLfLLLLLLfft1ii
+:::;i11L1Lti;1:;;;,...,.................,,:,,:::::;.    ,::;::::;;iii1111ttLGCCCLCLLLLfLLLLLfftt11i
+:;;i1;:                             .     ,,,::,:;,    ,,,,,::::;;ii111111tCCCCCLLLLLfLLLfLLffft11i
+ii;;.          ..::;:;:::::;;;:;;;;;;;;;ii;.:i;;:.   ,,,,,,,::,::;ii11111iLCLCCCLLLLLffLLLLLfftt11i
+fi;:.    .:;;;::::,::;::;:::::::;:;:::::::;;;;;;    ,,,,,,,,:::::;iii1i1iLCCCCCLLLLLLLLffLffffft1ii
+fLi;,     ::::;:::;:;;;::, .::::;:;:::::,::::;    .:,,,,,,,::::;;i;iiii;tCCCCCCCLLLLLfLLLfLLLfft11i
+tff1;,     ::::,::,:::,.               ,.   .     ,,,,,,,,::::;ii;iii;;fCGCCCCCCCLLLLLLLfLfLfLtt11i
+1;i;1t,,   .,:;i;;,,,,                  ,;;     ..,,,,,,,:,:::;ii;;;;;tGGGCCCCCCCLLLLLLLfLfLLfft1ii
+i;ii;it1:,.   ,:::;;:     ,,,:,,,,:;1ftt1,     ...,,,,,,,:::;;ii;;ii;. ;CGCGCCCCCCCLLLLLLLLLLfft11i
+iii1ti;;;i;,,..,,:::;  .C@@@800GCCLfft1,       ,,,,,:,,::,::;;;;:;:;,11,  tCCCCCCCCCLCLLLLLLLLfft11
+i;;;1;;;:;;;:::,...,;  ,i008@88GCCf11         ,.,,,,,,,,,:;::::;::::,,;;:,.                        
+;;;;;i:;:::..,:;:,..,  :1CGCGLttf1.          .,.,.,,,.,,:;:::;:;:;i;,,;::,,.            ..::::;;;;;
+;i;::;;::,       ::..  ,LCCGCt1.             ,,,,,,,,.:::::;if1ii;;:,::;:...          .;;i;ii;ii;: 
+;;;;:;;;.          .,.,,.                    .,,,,,,:::::;tf1iiLt1ti;:;ti,..          :::::::,     
+;:,:;:;,     ::;:;,  ;i:,:.                   ,,,:::;  :;;i;tff1t11i;;;i,,,.  .      ,,,,          
+:;::::;,    .;;;;;i;, i;i1,,:i.               ,;:;.  i;11;;iiifLfffftffi;;:,  .                ,,,.
+;i;:::;:.   .:;i;ii1: LL1iiitL,,,:i               11C8G01  :;:iGLfLCf1ft111,              .,,,,,,.,
+;;;;;;, .:,   :;;;;;; ,tLtG0LttLf;,,,;i..      ,11fG0CCf1t. ;;;i, ,,,,,,,1i:f:         .,,,,,,,,,,.
+;:i;;;    ,::. ;;;1i1 :CLfGC0GGGCCLf1:,        LCGGCCfLf1Gf  ;;;. 0@@@@@@Gi1ft       .,.,,.,,..    
+;:;;;:    ;::,.,;;iii  GCL000CC00GGCCCf11;     CfLLftff1L8G. ;;;. 0@@@@@@@Lftft.     ,.....   it1t1
+;;;;;,   .;:::::;:i;;, LGfG880888GGCCLLf11;i   LLffLfLLfft8. i;;. 88@@@@@08@@0ft     .:   :LLffft11
+,::i;,   ,;;:::::::;:; ,tttLG888000GL111ii;;:   fttttCft1t8t i;f; C8@@@8G88@@@8Ct     :LLLLLfLLfttt
+,,;;;    ;;:;;;:,;:;;::,,,::iii11itLLii;ii;iit,   ft1ttft18f i1ii;. ;0CGL8@@8888 tCCLLLLLLLLLfLfft1
+.,,;i   .:::::::::,,,,  ;i1t11i1iiii,        ;t1ttGLCtttf11C  ;i;;1 :fLtfCG8@8t CCCCCLCLLLLLLLfftt1
+,.,:,   ,::;:;::,,. ,11tttfttft1t:  1i11iiii;;    .8@@@@GLC8t. ::;  ttt0C088GL. CLCCCLLLLLLLLLLLft1
+,,.,,   .::;;;,,,  1tttfLLLtfffttftffft1i;;:,,,,:;;ii110@@0fCf ::. it8G000G,   fLCCCCLLLLLLLLLfftf1
+:,::     ::;1G1, 1tttttLLLCCLfLLLfft1;;tL.     ,,;;ii1t1;:1f1;   .;tfLC    :CCCCLCCCLCLLLLLLCfLffft
+,:;::.    ,:;@0 ,ttttffLLCCCGGCCLLftttfCGC   iGi:fiii111ti;10f;:,   1ftt.:LCCCCLLCCLLCLLLLLLLLfLftt
+::,,;:,    .:C@ :ttftfffLLCCGGGGCLCLCLLfLLGGG00CCCL1111t1LCG00GC    ffC, LLLLLCLLLLLLLCCLLLLLLLfLtt
+,,.   ,:;   .;@ ,tftttfLffLCCCG00000GGG0G088880GLfft11tftLL G0GGCCCCG0G LCLLLLLCCLCLLCLLLLLLLfffftt
+,,,,,   ,::   LL ttf1tftffLCCCCGGG000000808880CCCLfffffffff .080888888:tLLCCLLCCCCLCCLCCCCCLCCLLfft
+: ,,,,    ::;. ,1.tttttftfLLLCCCGGG0000888800GCCLLLfffftftLL .88888888:tLLCLLLLLCLLLLLLLLLCCCCLLfft
+:, .,,,,   .;;;,   ttftftffLLCCCCGCGG00000000GGCCCfttft1tfff. G8888888:tLLLLLLLLLLLLLLLLLLLCLLLLff1
+:;:. ,,,,,   .;;;:. ,;fttftfffLLCCCCCCCGGG0000C, 1ttttfLftttC G8888888.tLLLLLLfLLLLfLLLCLLLLLfLftf1
+.:;;, ,,,::,    ;ii:;::1ftffLLfLLLLLCCGGGCGGGC. 1ttt1,,fttfC  G888888. LLLLLLLLffffLffLLLLLLLLLfft1
+...:i: .,,::,,    ,i;ii:,;ttfffLffLLLCCGGCGGCG , ;i;;iii1i  :. 08888; LLLLLLLLfLLLLLLLfLLLLLLLffft1
+....,;i .,:,:::,     1iii:  ;itfftLLCCCCGGGGGGCGCLLLtfC000888880880, LLLLLCLfLLffLLLLfffLLLLLLfftt1
+.....:11  ,,::::;     .ii;;i, :;1fLLLfLCCGGGGGGGGCGGCGG00888888888, fLLLLLLLfLLLLfLfLffffffLfffttti
+....,;1t1: ,,,:;;;    ,iCL::fC.,:1ffLffLLCGGGGGGG0GGG088G8888888L :fLLLLLLLfLLfLffffLfffffffffft11i
+...,:i1ttt; .,:::;:   ,fL;::1C ,:tfffLCCLLt1:,            ,0@88t .itLfLLLfLLfffffffffffffftffttttii
+.,,,;1t1Lft; ,:::;;,  ,tL1:::G ,,1ttLLCCCGGCCCLLt::,,,:,,Cf :0: ..f0LffLfLLffffffffffffffffftttttii
+,::ii1ttfCGf, ,,:;;i  ,t1f:::f  ,ifffLfLCCLCCCCCCLf    :888881  ,tLLfLLfLLLfLfffffffffffttfftftt1i;
+;ii111t1LG001 .,::;;  ,t11;::1  ,itffffLLLLLCLCCCG0GGGCG0000. .:fLfffLffffLLffffffffffffftttttt1t1i
+,:;;11111fG0C;.,,:::  ,ti11;:i  :1tftLLCCCGGGG000808000000C  ,;itfffffffffLffffffffftftfttftttft11i
+....,,,,:::;1; ,,,::: ,11111;L  :itttffCCCCGG000888888888;  :::ttffffffffffffftfffftfttttttttttt11i
+,..,....,,,,,,,. .::;:;11ttti0  ,ii11ttfLLCCCGG000088888f iL::;1tfffffffffffffffffttftffttffttttt1i
+....;,:;.....,.,,,.  .:i;i1tiG1;,,:iiii1ffLLLCGGGG00000, 0G::::1tftfffffffLfLffffffftfftffftttt111;
+..........:1::,.,,,,,,::: ;:1CC:;;,.,::;;ii1111tLLCf;  ,8i,,,,,::;ittftfffffffffLfffffftttfttttt1ii
+..........:tt,::,,,,,::;11tt,.:,:,........,,.. ....:,.t0i.......::1tttffttfftftftffftttttttttt111ii
+..........,;1.i:;;;;;i1ttttti:,,,,,,.,.:;:,;,.......,,;......,,,,:11ffftfttttfftttttttttttttt11111i
+...........;:..1i111ttffLfi:,,,,...,...f1;;,,,.......,,.,,,...,.,ittftt1i;;;::::::,::::;:;;;;i111ii
+.........,.:,...ttttfft1:,.............f;:,,.:,,,:,,,,i....,.,..,,,.,.....,,,,..........,,,,:i111ii
+...........i,....ttti;,................C;:,.,.,,,,,,:i,:,,,,,.......,.....,,,,..........,...,;::::,
+..........,1,....,t:,............:,....,i:....,:,:;,,,1::..,.........,....,:::,...,....,.....;,::::
